@@ -4,9 +4,13 @@
 
 ## 🎬 演示视频
 
-[![AI 自动化迷宫演示](AI自动化迷宫.mov)](AI自动化迷宫.mov)
+<video width="800" controls>
+  <source src="AI自动化迷宫.mp4" type="video/quicktime">
+  <source src="AI自动化迷宫.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。请 [下载视频](AI自动化迷宫.mp4) 或使用支持 HTML5 视频的浏览器。
+</video>
 
-[点击观看完整演示视频](AI自动化迷宫.mov)
+> 💡 **提示**：如果视频无法播放，请 [点击下载视频文件](AI自动化迷宫.mp4) 在本地观看。
 
 ## ✨ 功能特性
 
